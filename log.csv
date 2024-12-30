@@ -1,0 +1,35 @@
+net,data,gt,duration,evaluation
+conv_linear,img_mnist_0.072113.txt,not verified,0m1.885s,true
+conv_linear,img_mnist_0.079101.txt,verified,0m1.434s,true
+fc_linear,img_mnist_0.077340.txt,not verified,0m1.379s,true
+fc_linear,img_mnist_0.082864.txt,verified,0m1.419s,true
+fc6_d,img_mnist_0.089335.txt,not verified,1m0.373s,true
+fc6_d,img_mnist_0.050621.txt,verified,0m2.633s,true
+fc6_w,img_mnist_0.124546.txt,not verified,1m0.744s,true
+fc6_w,img_mnist_0.042779.txt,verified,0m1.748s,true
+fc_dw,img_mnist_0.071216.txt,not verified,1m0.676s,true
+fc_dw,img_mnist_0.030104.txt,verified,0m1.815s,true
+fc6_base,img_mnist_0.074530.txt,not verified,1m0.226s,true
+fc6_base,img_mnist_0.044957.txt,verified,0m1.743s,true
+fc_base,img_mnist_0.048508.txt,not verified,0m56.936s,true
+fc_base,img_mnist_0.048839.txt,verified,0m1.444s,true
+conv6_base,img_cifar10_0.003450.txt,not verified,1m0.079s,true
+conv6_base,img_cifar10_0.003959.txt,verified,0m7.827s,true
+fc6_dw,img_mnist_0.082344.txt,not verified,1m0.474s,true
+fc6_dw,img_mnist_0.034540.txt,verified,0m1.830s,true
+fc_d,img_mnist_0.059808.txt,not verified,1m0.311s,true
+fc_d,img_mnist_0.040164.txt,verified,0m1.776s,true
+fc_w,img_mnist_0.110494.txt,not verified,0m59.973s,true
+fc_w,img_mnist_0.042224.txt,verified,0m1.767s,true
+conv_d,img_mnist_0.103841.txt,not verified,1m0.114s,true
+conv_d,img_mnist_0.078071.txt,verified,0m2.473s,true
+conv_base,img_mnist_0.075798.txt,not verified,1m0.090s,true
+conv_base,img_mnist_0.055929.txt,verified,0m2.220s,true
+skip6,img_mnist_0.102399.txt,not verified,1m0.435s,true
+skip6,img_mnist_0.074744.txt,verified,0m1.766s,true
+skip_large,img_mnist_0.131450.txt,not verified,1m0.361s,true
+skip_large,img_mnist_0.041155.txt,verified,0m1.766s,true
+skip,img_mnist_0.139199.txt,not verified,0m59.687s,true
+skip,img_mnist_0.078863.txt,verified,0m1.682s,true
+skip6_large,img_mnist_0.068828.txt,not verified,1m0.332s,true
+skip6_large,img_mnist_0.019448.txt,verified,0m1.845s,true

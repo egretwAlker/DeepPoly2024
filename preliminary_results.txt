@@ -1,0 +1,52 @@
+net,test case,ground truth,your output,your runtime,your point
+conv_linear,img0_mnist_0.030107.txt,not verified,not verified,1.253,0
+conv_linear,img6_mnist_0.052523.txt,verified,verified,1.271,1
+fc_linear,img0_mnist_0.004477.txt,not verified,not verified,1.235,0
+fc_linear,img6_mnist_0.102748.txt,verified,verified,1.229,1
+fc6_d,img0_mnist_0.004768.txt,not verified,not verified,2.498,0
+fc6_d,img4_mnist_0.037590.txt,verified,verified,1.273,1
+fc6_d,img10_mnist_0.056404.txt,verified,not verified,3.029,0
+fc6_w,img0_mnist_0.002323.txt,not verified,not verified,2.014,0
+fc6_w,img4_mnist_0.051968.txt,verified,verified,1.253,1
+fc6_w,img10_mnist_0.046423.txt,verified,verified,1.93,1
+fc_dw,img0_mnist_0.018995.txt,not verified,not verified,2.593,0
+fc_dw,img4_mnist_0.019369.txt,verified,verified,1.256,1
+fc_dw,img10_mnist_0.048601.txt,verified,verified,2.319,1
+fc6_base,img0_mnist_0.036379.txt,not verified,not verified,1.953,0
+fc6_base,img4_mnist_0.034540.txt,verified,verified,1.246,1
+fc6_base,img10_mnist_0.053394.txt,verified,verified,1.663,1
+fc_base,img0_mnist_0.018335.txt,not verified,not verified,1.757,0
+fc_base,img4_mnist_0.049512.txt,verified,verified,1.237,1
+fc_base,img10_mnist_0.072961.txt,verified,verified,1.606,1
+conv6_base,img0_cifar10_0.000593.txt,not verified,not verified,52.357,0
+conv6_base,img4_cifar10_0.001726.txt,verified,verified,2.986,1
+conv6_base,img10_cifar10_0.003959.txt,verified,verified,4.095,1
+fc6_dw,img0_mnist_0.012496.txt,not verified,not verified,4.243,0
+fc6_dw,img4_mnist_0.035530.txt,verified,verified,2.148,1
+fc6_dw,img10_mnist_0.052760.txt,verified,verified,4.336,1
+fc_d,img0_mnist_0.022949.txt,not verified,not verified,2.34,0
+fc_d,img4_mnist_0.045868.txt,verified,verified,1.299,1
+fc_d,img10_mnist_0.071258.txt,verified,verified,1.832,1
+fc_w,img0_mnist_0.063666.txt,not verified,not verified,1.998,0
+fc_w,img4_mnist_0.057236.txt,verified,verified,2.335,1
+fc_w,img10_mnist_0.082230.txt,verified,verified,2.183,1
+conv_d,img0_mnist_0.093947.txt,not verified,not verified,11.932,0
+conv_d,img4_mnist_0.073991.txt,verified,verified,1.891,1
+conv_d,img10_mnist_0.084488.txt,verified,verified,6.408,1
+conv_base,img0_mnist_0.064285.txt,not verified,not verified,5.93,0
+conv_base,img4_mnist_0.038857.txt,verified,verified,1.423,1
+conv_base,img10_mnist_0.062742.txt,verified,verified,3.764,1
+skip6,img0_mnist_0.014042.txt,not verified,not verified,2.322,0
+skip6,img4_mnist_0.075734.txt,verified,verified,1.344,1
+skip6,img10_mnist_0.090667.txt,verified,verified,1.875,1
+skip_large,img0_mnist_0.081176.txt,not verified,not verified,3.965,0
+skip_large,img4_mnist_0.033906.txt,verified,verified,1.467,1
+skip_large,img10_mnist_0.045195.txt,verified,verified,3.143,1
+skip,img0_mnist_0.023631.txt,not verified,not verified,1.873,0
+skip,img4_mnist_0.055097.txt,verified,verified,1.267,1
+skip,img10_mnist_0.100253.txt,verified,verified,1.677,1
+skip6_large,img0_mnist_0.063030.txt,not verified,not verified,5.97,0
+skip6_large,img4_mnist_0.024756.txt,verified,verified,1.394,1
+skip6_large,img10_mnist_0.035134.txt,verified,not verified,5.756,0
+
+total points: 30
