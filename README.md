@@ -1,4 +1,4 @@
-# RIAI 2024 Course Project
+# RTAI 2024 Course Project
 
 
 
